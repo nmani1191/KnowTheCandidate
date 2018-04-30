@@ -1,3 +1,31 @@
 Problem Statement:
-Ignorance about the available data in EC commission
-Unavailibility of Structured data about the contestant
+1. Ignorance about the available data in EC commission
+2. Unavailibility of Structured data about the contestant
+
+Solution: 
+
+Refactor the unstructured data to structured data. Present insights about the candidates,
+and help in deriving decisions. 
+ 
+
+Our Feature:
+
+1. Provide Data Driven Decision
+
+How are we going to do it ?
+Steps to start with technical details
+1. Understanding the data available and list out the available data.  
+
+2. Data Extraction
+
+3. Data Conversion
+
+4. Derive Insights
+
+5. Visualizations
+
+
+Stage 1:  In Progress
+Understanding the data available and list out the available data.  
+
+
