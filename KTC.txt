@@ -1,6 +1,6 @@
 Problem Statement:
-1. Ignorance about the available data in EC commission
-2. Unavailibility of Structured data about the contestant
+1. Make use of available data in EC commission websites
+2. Extarct hidden information about Candidates from UnStructured data in ECI websites
 
 Solution: 
 
@@ -8,12 +8,10 @@ Refactor the unstructured data to structured data. Present insights about the ca
 and help in deriving decisions. 
  
 
-Our Feature:
-
-1. Provide Data Driven Decision
+Our Methodology:
 
 How are we going to do it ?
-Steps to start with technical details
+
 1. Understanding the data available and list out the available data.  
 
 2. Data Extraction
@@ -28,4 +26,5 @@ Steps to start with technical details
 Stage 1:  In Progress
 Understanding the data available and list out the available data.  
 
-
+a) Candidate Affidavit documents can be downloaded from http://affidavitarchive.nic.in/ 
+b) Previous Election results and other statistics http://eci.nic.in/eci_main1/ElectionStatistics.aspx 
